@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\100 Days of Code - The Complete Python Pro Bootcamp for 2021\8. Day 8 - Beginner - Function Parameters & Caesar Cipher\caesar_cipher\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
